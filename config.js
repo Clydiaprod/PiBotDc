@@ -3,7 +3,7 @@ module.exports = {
     ownerID: ["273508770988949505", ""],
   botInvite: "",
   supportServer: "",
-    mongodbURL: "mongodb+srv://CLydia:MongoDbPass123@datacluster.vj8znfy.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb+srv://CLydia:MongoDbPass123@datacluster.vj8znfy.mongodb.net/?retryWrites=true&w=majority",
   status: 'LISTENING MUSIC',
   commandsDir: './commands',
   language: "en",
