@@ -56,7 +56,7 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-          .setImage('https://media.discordapp.net/attachments/281484210328567808/1204233726687715420/GifPiBot.gif?ex=65d3fd0e&is=65c1880e&hm=4d2c24f65d8f059351bb3d08136db50b9219d0be778422c3486ed95fb019c3c4&=https://media.discordapp.net/attachments/281484210328567808/1204233726687715420/GifPiBot.gif?ex=65d3fd0e&is=65c1880e&hm=4d2c24f65d8f059351bb3d08136db50b9219d0be778422c3486ed95fb019c3c4&=')
+          .setImage('https://media.discordapp.net/attachments/281484210328567808/1204233726687715420/GifPiBot.gif?ex=65d3fd0e&is=65c1880e&hm=4d2c24f65d8f059351bb3d08136db50b9219d0be778422c3486ed95fb019c3c4&=https://media.discordapp.net/attachments/281484210328567808/1204233726687715420/GifPiBot.gif?ex=65d3fd0e&is=65c1880e&hm=4d2c24f65d8f059351bb3d08136db50b9219d0be778422c3486ed95fb019c3c4&')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
           .setURL('https://www.youtube.com/channel/UC-kwtaCl1O48GBWF-P6CSGA')
